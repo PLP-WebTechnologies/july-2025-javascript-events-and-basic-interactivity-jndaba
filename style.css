@@ -1,0 +1,46 @@
+/* General styling */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+/* Header */
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Main content */
+main {
+  padding: 20px;
+}
+
+/* Demonstrating the Box Model */
+.box {
+  width: 300px;            /* content width */
+  padding: 20px;           /* inside spacing */
+  border: 3px solid blue;  /* border */
+  margin: 20px auto;       /* outside spacing */
+  background-color: lightyellow;
+  text-align: center;
+}
+
+/* Lists */
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
